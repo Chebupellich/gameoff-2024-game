@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 62cd9276409f5204fa82b2fc508e811c
+guid: 53f1f46ea35793843a9d1fcb03fb191b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6512135945435286508
-    second: DefaultChatacterIdle_0
+      213: 6373642032309308212
+    second: DefaultChatacterIdle 1_0
   - first:
-      213: -7903738310398998445
-    second: DefaultChatacterIdle_1
+      213: 3284720733555947247
+    second: DefaultChatacterIdle 1_1
   - first:
-      213: 5510611853595100509
-    second: DefaultChatacterIdle_2
+      213: -4234618675687113585
+    second: DefaultChatacterIdle 1_2
   - first:
-      213: -6403920987486653380
-    second: DefaultChatacterIdle_3
+      213: -4614552185049118722
+    second: DefaultChatacterIdle 1_3
   - first:
-      213: 7756194730166662969
-    second: DefaultChatacterIdle_4
+      213: -1296990162646666715
+    second: DefaultChatacterIdle 1_4
   - first:
-      213: 8655464013891601627
-    second: DefaultChatacterIdle_5
+      213: -8986458315015688705
+    second: DefaultChatacterIdle 1_5
   - first:
-      213: 9130320583118854267
-    second: DefaultChatacterIdle_6
+      213: 3143425858554576603
+    second: DefaultChatacterIdle 1_6
   - first:
-      213: 6624238322983088405
-    second: DefaultChatacterIdle_7
+      213: -1705029174211895833
+    second: DefaultChatacterIdle 1_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,7 +69,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -134,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DefaultChatacterIdle_0
+      name: DefaultChatacterIdle 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 15
-        height: 56
+        x: 14
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ceb09bcb321cf5a50800000000000000
-      internalID: 6512135945435286508
+      spriteID: 43b8b4dc8a9b37850800000000000000
+      internalID: 6373642032309308212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_1
+      name: DefaultChatacterIdle 1_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 15
-        height: 56
+        x: 56
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 358850be1e7405290800000000000000
-      internalID: -7903738310398998445
+      spriteID: fe676fd9a1ca59d20800000000000000
+      internalID: 3284720733555947247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_2
+      name: DefaultChatacterIdle 1_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 15
-        height: 56
+        x: 98
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d55c79cc840a97c40800000000000000
-      internalID: 5510611853595100509
+      spriteID: f8c3f6c10cc9b35c0800000000000000
+      internalID: -4234618675687113585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_3
+      name: DefaultChatacterIdle 1_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 15
-        height: 56
+        x: 140
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3470339ac3b027a0800000000000000
-      internalID: -6403920987486653380
+      spriteID: ef705a49c31d5ffb0800000000000000
+      internalID: -4614552185049118722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_4
+      name: DefaultChatacterIdle 1_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 15
-        height: 56
+        x: 182
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9373754530a83ab60800000000000000
-      internalID: 7756194730166662969
+      spriteID: 522f44e915a200ee0800000000000000
+      internalID: -1296990162646666715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_5
+      name: DefaultChatacterIdle 1_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 15
-        height: 56
+        x: 224
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,20 +259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd48f2a79a26e1870800000000000000
-      internalID: 8655464013891601627
+      spriteID: ffd62a856cfa94380800000000000000
+      internalID: -8986458315015688705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_6
+      name: DefaultChatacterIdle 1_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 15
-        height: 56
+        x: 266
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b789c32223a65be70800000000000000
-      internalID: 9130320583118854267
+      spriteID: bde3cece921bf9b20800000000000000
+      internalID: 3143425858554576603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterIdle_7
+      name: DefaultChatacterIdle 1_7
       rect:
         serializedVersion: 2
-        x: 112
-        y: 0
-        width: 15
-        height: 56
+        x: 308
+        y: 7
+        width: 24
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 511bfe478a50eeb50800000000000000
-      internalID: 6624238322983088405
+      spriteID: 7ed1c6beff48658e0800000000000000
+      internalID: -1705029174211895833
       vertices: []
       indices: 
       edges: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c663bd57a28b97b4196d861848dfebdc
+    spriteID: 39d6ea0fe3e8b46478869acef49689f2
     internalID: 0
     vertices: []
     indices: 
@@ -323,14 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DefaultChatacterIdle_0: 6512135945435286508
-      DefaultChatacterIdle_1: -7903738310398998445
-      DefaultChatacterIdle_2: 5510611853595100509
-      DefaultChatacterIdle_3: -6403920987486653380
-      DefaultChatacterIdle_4: 7756194730166662969
-      DefaultChatacterIdle_5: 8655464013891601627
-      DefaultChatacterIdle_6: 9130320583118854267
-      DefaultChatacterIdle_7: 6624238322983088405
+      DefaultChatacterIdle 1_0: 6373642032309308212
+      DefaultChatacterIdle 1_1: 3284720733555947247
+      DefaultChatacterIdle 1_2: -4234618675687113585
+      DefaultChatacterIdle 1_3: -4614552185049118722
+      DefaultChatacterIdle 1_4: -1296990162646666715
+      DefaultChatacterIdle 1_5: -8986458315015688705
+      DefaultChatacterIdle 1_6: 3143425858554576603
+      DefaultChatacterIdle 1_7: -1705029174211895833
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

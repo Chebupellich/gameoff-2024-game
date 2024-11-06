@@ -119,7 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &110095559
+--- !u!1001 &67495863
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2934686769525565335, guid: 6b9855df8f813c3478f777432d43eb22, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f0e5a918fa66ee94c967b95090883607, type: 2}
     - target: {fileID: 3763873014941309845, guid: 6b9855df8f813c3478f777432d43eb22, type: 3}
       propertyPath: gameInput
       value: 
@@ -171,10 +175,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5564903755421597016, guid: 6b9855df8f813c3478f777432d43eb22, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: c71d786fb41e4f746a0022c49d515f94, type: 2}
     - target: {fileID: 8544767356166489055, guid: 6b9855df8f813c3478f777432d43eb22, type: 3}
       propertyPath: m_Name
       value: DefaultPlayer
@@ -878,10 +878,18 @@ PrefabInstance:
       propertyPath: m_ShadowMesh.m_InitialTrim
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5202580348862540328, guid: a3772f38379fc154bab8b62e6fc9c505, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f0e5a918fa66ee94c967b95090883607, type: 2}
     - target: {fileID: 8253495337894776949, guid: a3772f38379fc154bab8b62e6fc9c505, type: 3}
       propertyPath: m_Name
       value: ClearCounter
       objectReference: {fileID: 0}
+    - target: {fileID: 9221640053983438547, guid: a3772f38379fc154bab8b62e6fc9c505, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f0e5a918fa66ee94c967b95090883607, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -893,6 +901,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 219356539}
   - {fileID: 2123522884}
-  - {fileID: 110095559}
   - {fileID: 1522947776}
   - {fileID: 1733342733264162796}
+  - {fileID: 67495863}

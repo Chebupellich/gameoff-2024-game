@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 9432609208cf5bb48914013aed325a11
+guid: 1a0a26551c132224486fb79ae3f6ed7d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2250765147816618550
-    second: DefaultChatacterWalk_animation_0
+      213: 8146819979439738785
+    second: DefaultChatacterWalk_Animation 1_0
   - first:
-      213: 3533832556624709267
-    second: DefaultChatacterWalk_animation_1
+      213: -7270913249001423187
+    second: DefaultChatacterWalk_Animation 1_1
   - first:
-      213: -681702825913292365
-    second: DefaultChatacterWalk_animation_2
+      213: -2283209295907820155
+    second: DefaultChatacterWalk_Animation 1_2
   - first:
-      213: 6864846117287716456
-    second: DefaultChatacterWalk_animation_3
+      213: 6653427111558497574
+    second: DefaultChatacterWalk_Animation 1_3
   - first:
-      213: -740433659505857889
-    second: DefaultChatacterWalk_animation_4
+      213: 4444463527868342956
+    second: DefaultChatacterWalk_Animation 1_4
   - first:
-      213: 7727224775364261401
-    second: DefaultChatacterWalk_animation_5
+      213: -4719678875561096489
+    second: DefaultChatacterWalk_Animation 1_5
   - first:
-      213: 5932848971402571200
-    second: DefaultChatacterWalk_animation_6
+      213: -2587395985298604980
+    second: DefaultChatacterWalk_Animation 1_6
   - first:
-      213: -4076828099152680723
-    second: DefaultChatacterWalk_animation_7
+      213: -5285651407281341054
+    second: DefaultChatacterWalk_Animation 1_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -69,7 +69,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -134,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_0
+      name: DefaultChatacterWalk_Animation 1_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 16
-        height: 56
+        x: 16
+        y: 7
+        width: 21
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63a60741af25c3f10800000000000000
-      internalID: 2250765147816618550
+      spriteID: 1af8f8b8b915f0170800000000000000
+      internalID: 8146819979439738785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_1
+      name: DefaultChatacterWalk_Animation 1_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 0
-        width: 16
-        height: 56
+        x: 49
+        y: 7
+        width: 20
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3968359bcf1ba0130800000000000000
-      internalID: 3533832556624709267
+      spriteID: daeb6984ce6881b90800000000000000
+      internalID: -7270913249001423187
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_2
+      name: DefaultChatacterWalk_Animation 1_2
       rect:
         serializedVersion: 2
-        x: 74
-        y: 0
-        width: 16
-        height: 56
+        x: 81
+        y: 7
+        width: 21
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b9ee0344ea1a86f0800000000000000
-      internalID: -681702825913292365
+      spriteID: 58d6b890e396050e0800000000000000
+      internalID: -2283209295907820155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_3
+      name: DefaultChatacterWalk_Animation 1_3
       rect:
         serializedVersion: 2
-        x: 105
-        y: 0
-        width: 16
-        height: 56
+        x: 113
+        y: 7
+        width: 20
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86667a21c25d44f50800000000000000
-      internalID: 6864846117287716456
+      spriteID: 625c563e4b8b55c50800000000000000
+      internalID: 6653427111558497574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_4
+      name: DefaultChatacterWalk_Animation 1_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 0
-        width: 16
-        height: 56
+        x: 144
+        y: 7
+        width: 22
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9a2969728379b5f0800000000000000
-      internalID: -740433659505857889
+      spriteID: ca2a5c3e708edad30800000000000000
+      internalID: 4444463527868342956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_5
+      name: DefaultChatacterWalk_Animation 1_5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 0
-        width: 16
-        height: 56
+        x: 176
+        y: 7
+        width: 22
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,20 +259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9163f2b1efd9c3b60800000000000000
-      internalID: 7727224775364261401
+      spriteID: 7da04409115508eb0800000000000000
+      internalID: -4719678875561096489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_6
+      name: DefaultChatacterWalk_Animation 1_6
       rect:
         serializedVersion: 2
-        x: 202
-        y: 0
-        width: 16
-        height: 56
+        x: 208
+        y: 7
+        width: 23
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cded76b4b6b55250800000000000000
-      internalID: 5932848971402571200
+      spriteID: c4c310b5f09b71cd0800000000000000
+      internalID: -2587395985298604980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DefaultChatacterWalk_animation_7
+      name: DefaultChatacterWalk_Animation 1_7
       rect:
         serializedVersion: 2
-        x: 233
-        y: 0
-        width: 16
-        height: 56
+        x: 240
+        y: 7
+        width: 22
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de86cab91723c67c0800000000000000
-      internalID: -4076828099152680723
+      spriteID: 28db376bc0895a6b0800000000000000
+      internalID: -5285651407281341054
       vertices: []
       indices: 
       edges: []
@@ -313,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: cfd3ea8946856a141bac1d467385afb9
+    spriteID: f4153c75a833b3f478c48fdddd24e1ef
     internalID: 0
     vertices: []
     indices: 
@@ -323,14 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DefaultChatacterWalk_animation_0: 2250765147816618550
-      DefaultChatacterWalk_animation_1: 3533832556624709267
-      DefaultChatacterWalk_animation_2: -681702825913292365
-      DefaultChatacterWalk_animation_3: 6864846117287716456
-      DefaultChatacterWalk_animation_4: -740433659505857889
-      DefaultChatacterWalk_animation_5: 7727224775364261401
-      DefaultChatacterWalk_animation_6: 5932848971402571200
-      DefaultChatacterWalk_animation_7: -4076828099152680723
+      DefaultChatacterWalk_Animation 1_0: 8146819979439738785
+      DefaultChatacterWalk_Animation 1_1: -7270913249001423187
+      DefaultChatacterWalk_Animation 1_2: -2283209295907820155
+      DefaultChatacterWalk_Animation 1_3: 6653427111558497574
+      DefaultChatacterWalk_Animation 1_4: 4444463527868342956
+      DefaultChatacterWalk_Animation 1_5: -4719678875561096489
+      DefaultChatacterWalk_Animation 1_6: -2587395985298604980
+      DefaultChatacterWalk_Animation 1_7: -5285651407281341054
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
