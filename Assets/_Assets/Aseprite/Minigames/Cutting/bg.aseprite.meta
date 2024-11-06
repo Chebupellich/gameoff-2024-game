@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85ef2367b8065744dba49e27452df5be
+guid: 1f6999cbd65e94c45b6c7098f116af64
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -122,9 +122,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: book
+  - name: bg
     originalName: 
-    pivot: {x: 0.5671642, y: -1.1478261}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -132,9 +132,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 201
-      height: 115
-    spriteID: 5583ec3c196c80c4c83198adcdb6fc31
+      width: 300
+      height: 150
+    spriteID: fc76d3ec32e4007429460d154167c761
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,21 +146,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 418718505
-    name: book
+    guid: 1259326109
+    name: bg
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: book
+    - name: bg
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 14
-        y: 132
-        width: 201
-        height: 115
-      spriteId: 5583ec3c196c80c4c83198adcdb6fc31
+        x: 0
+        y: 0
+        width: 300
+        height: 150
+      spriteId: fc76d3ec32e4007429460d154167c761
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -179,4 +179,4 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 256, y: 256}
+  canvasSize: {x: 300, y: 150}
