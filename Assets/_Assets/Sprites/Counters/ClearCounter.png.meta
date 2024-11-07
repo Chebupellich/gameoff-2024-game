@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2274ef1ac7bbd6a46b3ead690e3381e8
+guid: 4d9456ee3bc1bbd45a98f6804451f70e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2466297264624228792
-    second: BaseCounter-1_0
+      213: 3371591186507809231
+    second: ClearCounter_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BaseCounter-1_0
+      name: ClearCounter_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 48
-        height: 38
+        width: 64
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8462e8f64b3f5cdd0800000000000000
-      internalID: -2466297264624228792
+      spriteID: fc1c2a7125c4ace20800000000000000
+      internalID: 3371591186507809231
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1ec006cf150db7b4c8578f31a07d8455
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ClearCounter_0: 3371591186507809231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
