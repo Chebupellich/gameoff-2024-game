@@ -2,13 +2,10 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-public class SelectedCounter_Visual : MonoBehaviour
+public class SelectedCounterVisual : MonoBehaviour
 {
-    [SerializeField] private ClearCounter clearCounter;
+    [SerializeField] private BaseCounter baseCounter;
     [SerializeField] private GameObject[] visualGameObjectArray;
-    [SerializeField] private Material material;
-
-    [SerializeField] private float fadeDuration = 2f;
 
     private void Start()
     {
@@ -17,7 +14,7 @@ public class SelectedCounter_Visual : MonoBehaviour
 
     private void Player_OnSelectedCounterChanged(object sender, Player.OnSelectedCounterChangedEventArgs e)
     {
-        if (e.selectedCounter == clearCounter)
+        if (e.selectedCounter == baseCounter)
         {
             Show();
         }

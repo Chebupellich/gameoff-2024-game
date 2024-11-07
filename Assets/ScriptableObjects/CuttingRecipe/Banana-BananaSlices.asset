@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe77b2d148066aa4cb4810c129a2ddbf, type: 3}
+  m_Name: Banana-BananaSlices
+  m_EditorClassIdentifier: 
+  input: {fileID: 11400000, guid: b1981a3ae08d89b429af2f7c4e18468f, type: 2}
+  output: {fileID: 11400000, guid: 11b809c804aa0104a922e84e7959ec25, type: 2}
+  cuttingProgressMax: 3

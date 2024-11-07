@@ -124,7 +124,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: stove
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: -0.11538462}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -178,7 +178,7 @@ ScriptedImporter:
       additiveSortOrder: 0
       cellRect:
         x: 2
-        y: 0
+        y: 3
         width: 28
         height: 26
       spriteId: d37641a76dab88245a08268a2ecc0480
